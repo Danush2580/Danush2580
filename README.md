@@ -1,4 +1,4 @@
-[![MasterHead](https://as2.ftcdn.net/v2/jpg/03/96/86/67/1000_F_396866792_pTQZ7gsT0f7CCEw7uuN2di2o7TZf6tSl.jpg)]
+[![MasterHead](https://media.wired.co.uk/photos/60c78558edeb9d79d47f89f2/16:9/w_2560%2Cc_limit/WIRED-Consulting-0506FTQuantum01-1.jpg)]
 <h1 align="center">Hi 🖖🏻, This is Prasanth_Danush</h1>
 <h3 align="center">A passionate CYBERSECURITY RESEARCHER & Developer</h3>
 <img aling="right" alt="Coding" width="400" src="https://i.gifer.com/origin/22/22657b8a577f858827c5d46dac32cf53_w200.webp"
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Prasanth kumar s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasanth kumar s" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Prasanth kumar s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prasanth kumar s" height="30" width="40" /></a>
 <a href="https://instagram.com/pcdoc7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pcdoc7" height="30" width="40" /></a>
 </p>
 
